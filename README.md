@@ -1,0 +1,1 @@
+Workshop on building a RAG system from scratch
